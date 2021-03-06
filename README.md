@@ -1,5 +1,7 @@
-## Current position
-- Teaching and research assistant in University of Konstanz, specializing in Monetary Economics
+### Jing Ren
+
+## Current position 
+- Teaching and research assistant in University of Konstanz, specializing in Monetary Economics, Oct 2018-present
 
 ## Education background
 - PhD candidate in Quantitative Economics and Finance, University of Konstanz, Oct 2018-present
