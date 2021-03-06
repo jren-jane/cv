@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Current position
+- Teaching and research assistant in University of Konstanz, specializing in Monetary Economics
 
-You can use the [editor on GitHub](https://github.com/jren-jane/jingren.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Education background
+- PhD candidate in Quantitative Economics and Finance, University of Konstanz, Oct 2018-present
+- Master of Science in Quantitative Finance, National University of Singapore, Aug 2010-Aug 2011
+- Bachelor of Economics, Bachelor of Science (Mathematics), Mathematial Economics and Finance (double major), Sep 2005-Jun 2009
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project experiences
+- Monetary economics models
+  - Extracted and analyzed statistics from the price quote dataset from the Office for National Statistics website
+  - Built a large-scale New Keynesian DSGE model to predict the output and inflation responses after the temporary
+VAT cut in the UK in 2009
 
-### Markdown
+- Labor search models
+  - Established the monthly transition rates and the Beveridge curve from IPUMS-CPS data 
+  - Simulated a dataset and recover the model parameters via maximum likelihood estimation 
+  - Solved a labor search model with stochastic health status using dynamic programming
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Advanced time series models
+  - Coded break point and sample split tests on a vector-autoregression model, with bootstrap and a Monte-Carlo experiment
 
-```markdown
-Syntax highlighted code block
+- Quantitative finance models
+  - Priced an accumulator option using analytical approximation and Monte-Carlo simulations
 
-# Header 1
-## Header 2
-### Header 3
+## Work experiences
+- Shanghai New Oriental School
+  - Taught calculus and economics classes
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jren-jane/jingren.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Language and skills
+- Familiar with Java, Python, Matlab, mySQL, Stata and LaTeX
+- Fluent in oral and written English, native in Chinese
