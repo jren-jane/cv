@@ -30,3 +30,7 @@ VAT cut in the UK in 2009
 ## Language and skills
 - Familiar with Java, Python, Matlab, mySQL, Stata and LaTeX
 - Fluent in oral and written English, native in Chinese
+
+## Contact information
+- [jing.ren@uni-konstanz.de](mailto:jing.ren@uni-konstanz.de)
+- [jane_renjing@163.com](mailto:jane_renjing@163.com)
