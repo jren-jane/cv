@@ -4,7 +4,8 @@
 
 ## :woman_teacher: Work experiences
 - Conning
-  - Quantitative Finance Analyst 
+  - Quantitative Finance Analyst Intern
+    - Derived the bound for numerical integration error, coded in a managed codebase to optimize the numerical integration parameters used for option pricing, built it for production and priced 100+ options for a client.
 - Shanghai New Oriental School
   - Teacher
 
