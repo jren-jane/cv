@@ -28,23 +28,22 @@
 
 ## :computer: Project experiences
 - Monetary economics models
-  - Extracted and analyzed statistics from the price quote dataset from the Office for National Statistics website
-  - Built a large-scale New Keynesian DSGE model to predict the output and inflation responses after the temporary
-VAT cut in the UK in 2009
+  - Using a Bayesian likelihood approach, estimated a large-scale dynamic stochastic general equilibrium model for the UK economy using 7 macroeconomic time series, and made predictions of the output and inflation responses during the temporary VAT cut in the UK in 2009
 
-- Labor search models
-  - Established the monthly transition rates and the Beveridge curve from IPUMS-CPS data 
-  - Simulated a dataset and recover the model parameters via maximum likelihood estimation 
-  - Solved a labor search model with stochastic health status using dynamic programming
+- Machine learning models
+  - Coded machine learning algorithms and procedures from scratch. Models include linear and polynomial regression, discriminative and generative classifiers, svm, and neural networks. Procedures include data preparation, model estimation, hyperparameter tuning, performance evaluation, and visualization.
+
+- Deep learning models
+  - Made multi-step-ahead forecast on multivariate time series using vector-autoregression model, recursive neural network model and long short-term memory model.
 
 - Advanced time series models
-  - Coded break point and sample split tests on a vector-autoregression model, with bootstrap and a Monte-Carlo experiment
+  - Explored finite sample properties of the breakpoint test on a vector-autoregression model, with bootstrap and Monte-Carlo experiments.
 
-- Quantitative finance models
-  - Priced an accumulator option using analytical approximation and Monte-Carlo simulations
+- Java progrmming
+  - Built a simple banking web application with which users can view product information, convert currency, transfer funds and view transaction records in different currencies. The app implements an MVC structure and works with a MySQL database at the backend.
 
 ## :black_nib: Language and skills
-- Familiar with Python, Matlab, mySQL, Java, Stata and LaTeX
+- Familiar with Python, MATLAB, mySQL, Java and LaTeX
 - Fluent in oral and written English, native in Chinese
 
 ## :e-mail: Contact information
