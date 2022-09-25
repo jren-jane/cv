@@ -1,8 +1,8 @@
-## :office: Current position 
+## Current position 
 - Factset
   - Quantitative Researcher
 
-## :woman_teacher: Work experiences
+## Work experiences
 - Conning
   - Quantitative Finance Analyst Intern
     - Derived the bound for numerical integration error, coded in a managed codebase to optimize the numerical integration parameters used for option pricing, built it for production and priced 100+ options for a client.
@@ -22,11 +22,11 @@
     - Gave calculus and economics courses to students ranging from high school level to graduate school level.
     - Edited training materials and trained new teachers.
 
-##	:mortar_board: Education background
+## Education background
 - Master of Science in Quantitative Finance, National University of Singapore, Aug 2010-Aug 2011
 - Bachelor of Economics, Bachelor of Science (Mathematics), Mathematial Economics and Finance (double major), Sep 2005-Jun 2009
 
-## :computer: Project experiences
+## Project experiences
 - Monetary economics models
   - Using a Bayesian likelihood approach, estimated a large-scale dynamic stochastic general equilibrium model for the UK economy using 7 macroeconomic time series, and made predictions of the output and inflation responses during the temporary VAT cut in the UK in 2009
 
@@ -42,9 +42,9 @@
 - Java progrmming
   - Built a simple banking web application with which users can view product information, convert currency, transfer funds and view transaction records in different currencies. The app implements an MVC structure and works with a MySQL database at the backend.
 
-## :black_nib: Language and skills
+## Language and skills
 - Familiar with Python, MATLAB, mySQL, Java and LaTeX
 - Fluent in oral and written English, native in Chinese
 
-## :e-mail: Contact information
+## Contact information
 - [jane_renjing@163.com](mailto:jane_renjing@163.com)
