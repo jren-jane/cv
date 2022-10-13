@@ -1,6 +1,4 @@
 ## :office: Current position 
-- Factset
-  - Quantitative Researcher
 
 ## :woman_teacher: Work experiences
 - Conning
