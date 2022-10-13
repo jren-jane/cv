@@ -1,6 +1,4 @@
 ## Current position 
-- Factset
-  - Quantitative Researcher
 
 ## Work experiences
 - Conning
