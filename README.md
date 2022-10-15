@@ -1,15 +1,6 @@
 ## :office: Current position 
 
 ## :woman_teacher: Work experiences
-- Conning
-  - Quantitative Finance Analyst Intern
-    - Derived the bound for numerical integration error, coded in a managed codebase to optimize the numerical integration parameters used for option pricing, built it for production and priced 100+ options for a client.
-    - Coded entire option pricing process using Fourier transform.
-    - Presented on the inflation-linked bond model, and explored ways to resolve the conflict of fitting the initial conditions and smoothing the time series. 
-    - Practiced stochastic calculus and theoretically derived the characteristic functions and moments of the interest rate model, the inflation-linked bond model, and the equity model. Made Monte-Carlo simulations of the variables, and compared the results.
-    - Plotted option and swaption volatility surfaces
-    - Learned 2 new programming languages that are specific to the job, and converted data structures between them.
-    - Tested new features of a software program.
 - University of Konstanz
   - Teaching and Research Assistant
     - Conducted research in monetary economics. Built and coded a model to predict the inflation and output responses after a temporary VAT cut.
